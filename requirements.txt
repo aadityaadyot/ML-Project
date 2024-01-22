@@ -1,1 +1,5 @@
 pymongo
+pandas
+numpy
+seaborn
+-e .
